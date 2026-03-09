@@ -22,7 +22,7 @@ def calcular_suma(a,b):
 def  calcular_division(num1,num2):
     num1=float(input("ingrese el primer numero"))
     num2= float(input("ingrese el segundo numero"))
-    producto=num1 * num2
+    producto=num1 / num2
     print(producto)
 while True:
     munu()
