@@ -25,3 +25,4 @@ def resta():
         print(f"El resultado de la resta es: {resultado}")
     except ValueError:
         print("Error: Ingrese un número válido.")
+        
